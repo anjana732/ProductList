@@ -1,0 +1,1551 @@
+[
+  {
+    "item_code": "001",
+    "product_name": "Laptop",
+    "price": 799.99,
+    "segment": "Electronics",
+    "category": "Computers"
+  },
+  {
+    "item_code": "002",
+    "product_name": "Smartphone",
+    "price": 599.99,
+    "segment": "Electronics",
+    "category": "Mobile Phones"
+  },
+  {
+    "item_code": "003",
+    "product_name": "Running Shoes",
+    "price": 89.99,
+    "segment": "Apparel",
+    "category": "Footwear"
+  },
+  {
+    "item_code": "004",
+    "product_name": "Tablet",
+    "price": 299.99,
+    "segment": "Electronics",
+    "category": "Computers"
+  },
+  {
+    "item_code": "005",
+    "product_name": "T-shirt",
+    "price": 19.99,
+    "segment": "Apparel",
+    "category": "Clothing"
+  },
+  {
+    "item_code": "006",
+    "product_name": "Desk Chair",
+    "price": 129.99,
+    "segment": "Furniture",
+    "category": "Office Furniture"
+  },
+  {
+    "item_code": "007",
+    "product_name": "Earbuds",
+    "price": 49.99,
+    "segment": "Electronics",
+    "category": "Audio"
+  },
+  {
+    "item_code": "008",
+    "product_name": "Hiking Backpack",
+    "price": 79.99,
+    "segment": "Outdoor",
+    "category": "Camping Gear"
+  },
+  {
+    "item_code": "009",
+    "product_name": "Printer",
+    "price": 149.99,
+    "segment": "Electronics",
+    "category": "Office Equipment"
+  },
+  
+    {
+        "item_code": "010",
+        "product_name": "Jeans",
+        "price": 39.99,
+        "segment": "Apparel",
+        "category": "Clothing"
+    },
+    {
+        "item_code": "011",
+        "product_name": "TV",
+        "price": 999.99,
+        "segment": "Electronics",
+        "category": "Home Entertainment"
+    },
+    {
+        "item_code": "012",
+        "product_name": "Sneakers",
+        "price": 69.99,
+        "segment": "Apparel",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "013",
+        "product_name": "Desktop Computer",
+        "price": 1199.99,
+        "segment": "Electronics",
+        "category": "Computers"
+    },
+    {
+        "item_code": "014",
+        "product_name": "Dress Shirt",
+        "price": 29.99,
+        "segment": "Apparel",
+        "category": "Clothing"
+    },
+    {
+        "item_code": "015",
+        "product_name": "Desk Lamp",
+        "price": 24.99,
+        "segment": "Home & Garden",
+        "category": "Office Accessories"
+    },
+    {
+        "item_code": "016",
+        "product_name": "Wireless Mouse",
+        "price": 19.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "017",
+        "product_name": "Yoga Mat",
+        "price": 29.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "018",
+        "product_name": "Gaming Console",
+        "price": 399.99,
+        "segment": "Electronics",
+        "category": "Gaming"
+    },
+    {
+        "item_code": "019",
+        "product_name": "Cookware Set",
+        "price": 149.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "020",
+        "product_name": "Winter Coat",
+        "price": 99.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "021",
+        "product_name": "Bluetooth Speaker",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "022",
+        "product_name": "Backpack",
+        "price": 49.99,
+        "segment": "Apparel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "023",
+        "product_name": "Garden Hose",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Outdoor Tools"
+    },
+    {
+        "item_code": "024",
+        "product_name": "Dumbbell Set",
+        "price": 79.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "025",
+        "product_name": "External Hard Drive",
+        "price": 99.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "026",
+        "product_name": "Running Shorts",
+        "price": 34.99,
+        "segment": "Apparel",
+        "category": "Athletic Wear"
+    },
+    {
+        "item_code": "027",
+        "product_name": "Air Fryer",
+        "price": 79.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "028",
+        "product_name": "Electric Toothbrush",
+        "price": 49.99,
+        "segment": "Health & Personal Care",
+        "category": "Oral Care"
+    },
+    {
+        "item_code": "029",
+        "product_name": "Desk Organizer",
+        "price": 19.99,
+        "segment": "Office Supplies",
+        "category": "Office Accessories"
+    },
+    {
+        "item_code": "030",
+        "product_name": "Wireless Headphones",
+        "price": 129.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "031",
+        "product_name": "Gaming Mouse",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+      {
+        "item_code": "032",
+        "product_name": "Camping Cookware",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+
+    {
+        "item_code": "033",
+        "product_name": "Hiking Boots",
+        "price": 129.99,
+        "segment": "Outdoor",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "034",
+        "product_name": "Digital Camera",
+        "price": 449.99,
+        "segment": "Electronics",
+        "category": "Photography"
+    },
+    {
+        "item_code": "035",
+        "product_name": "Denim Jacket",
+        "price": 59.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "036",
+        "product_name": "Wireless Router",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Networking"
+    },
+    {
+        "item_code": "037",
+        "product_name": "Running Jacket",
+        "price": 79.99,
+        "segment": "Apparel",
+        "category": "Athletic Wear"
+    },
+    {
+        "item_code": "038",
+        "product_name": "Camping Stove",
+        "price": 99.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "039",
+        "product_name": "Leather Wallet",
+        "price": 29.99,
+        "segment": "Apparel",
+        "category": "Accessories"
+    },
+    {
+        "item_code": "040",
+        "product_name": "LED Light Bulbs",
+        "price": 14.99,
+        "segment": "Home & Garden",
+        "category": "Lighting"
+    },
+    {
+        "item_code": "041",
+        "product_name": "Portable Charger",
+        "price": 39.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "042",
+        "product_name": "Rain Jacket",
+        "price": 69.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "043",
+        "product_name": "Gardening Gloves",
+        "price": 9.99,
+        "segment": "Home & Garden",
+        "category": "Outdoor Tools"
+    },
+    {
+        "item_code": "044",
+        "product_name": "Bluetooth Earbuds",
+        "price": 59.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "045",
+        "product_name": "Yoga Block",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "046",
+        "product_name": "Kitchen Knife Set",
+        "price": 49.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Tools"
+    },
+    {
+        "item_code": "047",
+        "product_name": "Fitness Tracker",
+        "price": 99.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "048",
+        "product_name": "USB Flash Drive",
+        "price": 19.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "049",
+        "product_name": "Sunscreen",
+        "price": 12.99,
+        "segment": "Health & Personal Care",
+        "category": "Skincare"
+    },
+    {
+        "item_code": "050",
+        "product_name": "Water Bottle",
+        "price": 14.99,
+        "segment": "Sports & Fitness",
+        "category": "Hydration"
+    },
+    {
+        "item_code": "051",
+        "product_name": "Bed Sheets",
+        "price": 39.99,
+        "segment": "Home & Garden",
+        "category": "Bedding"
+    },
+    {
+        "item_code": "052",
+        "product_name": "Polarized Sunglasses",
+        "price": 79.99,
+        "segment": "Apparel",
+        "category": "Accessories"
+    },
+    {
+        "item_code": "053",
+        "product_name": "Wireless Keyboard",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "054",
+        "product_name": "Running Watch",
+        "price": 149.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "055",
+        "product_name": "Hiking Pants",
+        "price": 69.99,
+        "segment": "Outdoor",
+        "category": "Clothing"
+    },
+    {
+        "item_code": "056",
+        "product_name": "Grill",
+        "price": 299.99,
+        "segment": "Home & Garden",
+        "category": "Outdoor Cooking"
+    },
+    {
+        "item_code": "057",
+        "product_name": "Waterproof Backpack",
+        "price": 89.99,
+        "segment": "Outdoor",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "058",
+        "product_name": "Cycling Helmet",
+        "price": 49.99,
+        "segment": "Sports & Fitness",
+        "category": "Cycling"
+    },
+    {
+        "item_code": "059",
+        "product_name": "LED Desk Lamp",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Office Accessories"
+    },
+    {
+        "item_code": "060",
+        "product_name": "Handheld Vacuum",
+        "price": 59.99,
+        "segment": "Home & Garden",
+        "category": "Cleaning Supplies"
+    },
+    {
+        "item_code": "061",
+        "product_name": "Resistance Bands",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "062",
+        "product_name": "Portable Speaker",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "063",
+        "product_name": "Sleeping Bag",
+        "price": 79.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "064",
+        "product_name": "Kitchen Scale",
+        "price": 19.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Tools"
+    },
+    {
+        "item_code": "065",
+        "product_name": "Ski Jacket",
+        "price": 149.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "066",
+        "product_name": "Power Strip",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Home Accessories"
+    },
+    {
+        "item_code": "067",
+        "product_name": "Travel Mug",
+        "price": 14.99,
+        "segment": "Home & Garden",
+        "category": "Drinkware"
+    },
+    {
+        "item_code": "068",
+        "product_name": "Pedometer",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "069",
+        "product_name": "Bluetooth Mouse",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "070",
+        "product_name": "Travel Backpack",
+        "price": 79.99,
+        "segment": "Outdoor",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "071",
+        "product_name": "Shower Caddy",
+        "price": 19.99,
+        "segment": "Home & Garden",
+        "category": "Bathroom Accessories"
+    },
+    {
+        "item_code": "072",
+        "product_name": "Leather Belt",
+        "price": 39.99,
+        "segment": "Apparel",
+        "category": "Accessories"
+    },
+    {
+        "item_code": "073",
+        "product_name": "Handheld Massager",
+        "price": 49.99,
+        "segment": "Health & Personal Care",
+        "category": "Massage & Relaxation"
+    },
+    {
+        "item_code": "074",
+        "product_name": "Backpacking Tent",
+        "price": 199.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "075",
+        "product_name": "Smart Thermostat",
+        "price": 129.99,
+        "segment": "Electronics",
+        "category": "Home Automation"
+    },
+    {
+        "item_code": "076",
+        "product_name": "Running Belt",
+        "price": 19.99,
+        "segment": "Apparel",
+        "category": "Athletic Accessories"
+    },
+    {
+        "item_code": "077",
+        "product_name": "Stainless Steel Water Bottle",
+        "price": 24.99,
+        "segment": "Sports & Fitness",
+        "category": "Hydration"
+    },
+    {
+        "item_code": "078",
+        "product_name": "Luggage Set",
+        "price": 199.99,
+        "segment": "Outdoor",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "079",
+        "product_name": "Bluetooth Headset",
+        "price": 69.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "080",
+        "product_name": "Puzzle",
+        "price": 14.99,
+        "segment": "Toys & Games",
+        "category": "Puzzles & Brain Teasers"
+    },
+    {
+        "item_code": "081",
+        "product_name": "Candle Set",
+        "price": 19.99,
+        "segment": "Home & Garden",
+        "category": "Home Decor"
+    },
+    {
+        "item_code": "082",
+        "product_name": "Camping Lantern",
+        "price": 29.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "083",
+        "product_name": "Inflatable Kayak",
+        "price": 299.99,
+        "segment": "Outdoor",
+        "category": "Water Sports"
+    },
+    {
+        "item_code": "084",
+        "product_name": "First Aid Kit",
+        "price": 24.99,
+        "segment": "Health & Personal Care",
+        "category": "Medical Supplies"
+    },
+    {
+        "item_code": "085",
+        "product_name": "Wireless Charging Pad",
+        "price": 39.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "086",
+        "product_name": "Travel Pillow",
+        "price": 19.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "087",
+        "product_name": "Portable DVD Player",
+        "price": 99.99,
+        "segment": "Electronics",
+        "category": "Home Entertainment"
+    },
+    {
+        "item_code": "088",
+        "product_name": "Insulated Lunch Bag",
+        "price": 14.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Accessories"
+    },
+    {
+        "item_code": "089",
+        "product_name": "Smart Doorbell",
+        "price": 149.99,
+        "segment": "Electronics",
+        "category": "Home Automation"
+    },
+    {
+        "item_code": "090",
+        "product_name": "Fishing Rod",
+        "price": 89.99,
+        "segment": "Outdoor",
+        "category": "Fishing"
+    },
+    {
+        "item_code": "091",
+        "product_name": "Cookbook",
+        "price": 19.99,
+        "segment": "Books & Media",
+        "category": "Cooking & Food"
+    },
+    {
+        "item_code": "092",
+        "product_name": "Telescope",
+        "price": 199.99,
+        "segment": "Electronics",
+        "category": "Gadgets"
+    },
+    {
+        "item_code": "093",
+        "product_name": "Gaming Keyboard",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "094",
+        "product_name": "Travel Backpack",
+        "price": 49.99,
+        "segment": "Travel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "095",
+        "product_name": "Hiking Socks",
+        "price": 9.99,
+        "segment": "Outdoor",
+        "category": "Clothing"
+    },
+    {
+        "item_code": "096",
+        "product_name": "Foam Roller",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "097",
+        "product_name": "Dining Set",
+        "price": 199.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Accessories"
+    },
+    {
+        "item_code": "098",
+        "product_name": "Travel Adapter",
+        "price": 29.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "099",
+        "product_name": "Pet Bed",
+        "price": 49.99,
+        "segment": "Pets",
+        "category": "Pet Supplies"
+    },
+    {
+        "item_code": "100",
+        "product_name": "Car Phone Mount",
+        "price": 14.99,
+        "segment": "Automotive",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "101",
+        "product_name": "Yoga Strap",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "102",
+        "product_name": "Wireless Car Charger",
+        "price": 29.99,
+        "segment": "Automotive",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "103",
+        "product_name": "Sun Hat",
+        "price": 19.99,
+        "segment": "Apparel",
+        "category": "Accessories"
+    },
+    {
+        "item_code": "104",
+        "product_name": "Resistance Bands",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "105",
+        "product_name": "Portable Hammock",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "106",
+        "product_name": "Hydration Pack",
+        "price": 39.99,
+        "segment": "Sports & Fitness",
+        "category": "Hydration"
+    },
+    {
+        "item_code": "107",
+        "product_name": "Coffee Maker",
+        "price": 59.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "108",
+        "product_name": "Yoga Blocks",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "109",
+        "product_name": "Portable Fan",
+        "price": 24.99,
+        "segment": "Electronics",
+        "category": "Home Accessories"
+    },
+    {
+        "item_code": "110",
+        "product_name": "Picnic Blanket",
+        "price": 29.99,
+        "segment": "Outdoor",
+        "category": "Outdoor Accessories"
+    },
+    {
+        "item_code": "111",
+        "product_name": "Resistance Bands",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "112",
+        "product_name": "Smart Watch",
+        "price": 199.99,
+        "segment": "Electronics",
+        "category": "Wearable Technology"
+    },
+    {
+        "item_code": "113",
+        "product_name": "Travel Backpack",
+        "price": 79.99,
+        "segment": "Travel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "114",
+        "product_name": "Foam Roller",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "115",
+        "product_name": "Camping Chair",
+        "price": 39.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "116",
+        "product_name": "Waterproof Phone Case",
+        "price": 19.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "117",
+        "product_name": "Hiking Backpack",
+        "price": 99.99,
+        "segment": "Outdoor",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "118",
+        "product_name": "Camping Cookware",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },    
+    {
+        "item_code": "119",
+        "product_name": "Digital Alarm Clock",
+        "price": 14.99,
+        "segment": "Electronics",
+        "category": "Home Accessories"
+    },
+    {
+        "item_code": "120",
+        "product_name": "Portable Charger",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "121",
+        "product_name": "Camping Tent",
+        "price": 149.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "122",
+        "product_name": "Running Belt",
+        "price": 19.99,
+        "segment": "Apparel",
+        "category": "Athletic Accessories"
+    },
+    {
+        "item_code": "123",
+        "product_name": "Cooking Utensil Set",
+        "price": 24.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Tools"
+    },
+    {
+        "item_code": "124",
+        "product_name": "Portable Hammock",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "125",
+        "product_name": "Bluetooth Speaker",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "126",
+        "product_name": "Handheld Vacuum",
+        "price": 59.99,
+        "segment": "Home & Garden",
+        "category": "Cleaning Supplies"
+    },
+    {
+        "item_code": "127",
+        "product_name": "Sports Water Bottle",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Hydration"
+    },
+    {
+        "item_code": "128",
+        "product_name": "Digital Watch",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Wearable Technology"
+    },
+    {
+        "item_code": "129",
+        "product_name": "Leather Jacket",
+        "price": 129.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "130",
+        "product_name": "Portable Grill",
+        "price": 89.99,
+        "segment": "Outdoor",
+        "category": "Outdoor Cooking"
+    },
+    {
+        "item_code": "131",
+        "product_name": "Wireless Earbuds",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "132",
+        "product_name": "Sleeping Pad",
+        "price": 59.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "133",
+        "product_name": "Kitchen Utensil Set",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Tools"
+    },
+    {
+        "item_code": "134",
+        "product_name": "Running Shoes",
+        "price": 79.99,
+        "segment": "Apparel",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "135",
+        "product_name": "Bluetooth Speaker",
+        "price": 39.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "136",
+        "product_name": "Tent",
+        "price": 149.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "137",
+        "product_name": "Resistance Bands",
+        "price": 14.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "138",
+        "product_name": "Travel Pillow",
+        "price": 19.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+     {
+        "item_code": "139",
+        "product_name": "Smart Thermostat",
+        "price": 99.99,
+        "segment": "Electronics",
+        "category": "Home Automation"
+    },
+    {
+        "item_code": "140",
+        "product_name": "Portable Charger",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "141",
+        "product_name": "Backpack",
+        "price": 59.99,
+        "segment": "Apparel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "142",
+        "product_name": "Hiking Shoes",
+        "price": 89.99,
+        "segment": "Outdoor",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "143",
+        "product_name": "Gaming Headset",
+        "price": 69.99,
+        "segment": "Electronics",
+        "category": "Gaming"
+    },
+    {
+        "item_code": "144",
+        "product_name": "Sleeping Bag",
+        "price": 79.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "145",
+        "product_name": "Dining Chair",
+        "price": 79.99,
+        "segment": "Home & Garden",
+        "category": "Furniture"
+    },
+    {
+        "item_code": "146",
+        "product_name": "Wireless Keyboard",
+        "price": 34.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "147",
+        "product_name": "Travel Backpack",
+        "price": 69.99,
+        "segment": "Travel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "148",
+        "product_name": "Bluetooth Headphones",
+        "price": 89.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "149",
+        "product_name": "Camping Lantern",
+        "price": 24.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    
+    {
+        "item_code": "150",
+        "product_name": "Fitness Tracker",
+        "price": 149.99,
+        "segment": "Sports & Fitness",
+        "category": "Fitness Accessories"
+    },
+    {
+        "item_code": "151",
+        "product_name": "Smart Scale",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Health & Fitness"
+    },
+    {
+        "item_code": "152",
+        "product_name": "Bluetooth Mouse",
+        "price": 19.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "153",
+        "product_name": "Cookbook",
+        "price": 19.99,
+        "segment": "Books & Media",
+        "category": "Cooking & Food"
+    },
+    {
+        "item_code": "154",
+        "product_name": "Waterproof Jacket",
+        "price": 99.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "155",
+        "product_name": "Portable Fan",
+        "price": 24.99,
+        "segment": "Electronics",
+        "category": "Home Accessories"
+    },
+    {
+        "item_code": "156",
+        "product_name": "Running Jacket",
+        "price": 79.99,
+        "segment": "Apparel",
+        "category": "Athletic Wear"
+    },
+    {
+        "item_code": "157",
+        "product_name": "Travel Mug",
+        "price": 14.99,
+        "segment": "Home & Garden",
+        "category": "Drinkware"
+    },
+    {
+        "item_code": "158",
+        "product_name": "Bluetooth Earbuds",
+        "price": 59.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "159",
+        "product_name": "Cooking Utensil Set",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Tools"
+    },
+    {
+        "item_code": "160",
+        "product_name": "Tennis Racket",
+        "price": 89.99,
+        "segment": "Sports & Fitness",
+        "category": "Tennis"
+    },
+    {
+        "item_code": "161",
+        "product_name": "Hiking Backpack",
+        "price": 69.99,
+        "segment": "Outdoor",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "162",
+        "product_name": "Sleeping Pad",
+        "price": 39.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "163",
+        "product_name": "Electric Kettle",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "164",
+        "product_name": "Resistance Bands",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "165",
+        "product_name": "Smart Bulb",
+        "price": 19.99,
+        "segment": "Electronics",
+        "category": "Home Automation"
+    },
+    {
+        "item_code": "166",
+        "product_name": "Camping Cookware",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "167",
+        "product_name": "Running Shoes",
+        "price": 89.99,
+        "segment": "Apparel",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "168",
+        "product_name": "Handheld Vacuum",
+        "price": 49.99,
+        "segment": "Home & Garden",
+        "category": "Cleaning Supplies"
+    },
+    {
+        "item_code": "169",
+        "product_name": "Resistance Bands",
+        "price": 14.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "170",
+        "product_name": "Travel Pillow",
+        "price": 19.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "171",
+        "product_name": "Wireless Charging Pad",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "172",
+        "product_name": "Gaming Mouse",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "173",
+        "product_name": "Camping Tent",
+        "price": 149.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "174",
+        "product_name": "Dumbbell Set",
+        "price": 99.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "175",
+        "product_name": "Food Processor",
+        "price": 79.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "176",
+        "product_name": "Bluetooth Speaker",
+        "price": 69.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "177",
+        "product_name": "Yoga Mat",
+        "price": 29.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "178",
+        "product_name": "External Hard Drive",
+        "price": 99.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "179",
+        "product_name": "Camping Stove",
+        "price": 69.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "180",
+        "product_name": "Hand Blender",
+        "price": 39.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "181",
+        "product_name": "Weighted Blanket",
+        "price": 89.99,
+        "segment": "Home & Garden",
+        "category": "Bedding"
+    },
+    {
+        "item_code": "182",
+        "product_name": "Gaming Keyboard",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "183",
+        "product_name": "Resistance Bands",
+        "price": 14.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "184",
+        "product_name": "Travel Adapter",
+        "price": 24.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "185",
+        "product_name": "Wireless Earbuds",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "186",
+        "product_name": "Gaming Chair",
+        "price": 199.99,
+        "segment": "Furniture",
+        "category": "Gaming"
+    },
+    {
+        "item_code": "187",
+        "product_name": "Camping Hammock",
+        "price": 49.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "188",
+        "product_name": "Wireless Router",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Networking"
+    },
+    {
+        "item_code": "189",
+        "product_name": "Yoga Blocks",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    
+    {
+        "item_code": "190",
+        "product_name": "Portable Power Bank",
+        "price": 39.99,
+        "segment": "Electronics",
+        "category": "Mobile Accessories"
+    },
+    {
+        "item_code": "191",
+        "product_name": "Camping Chair",
+        "price": 29.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "192",
+        "product_name": "Hand Mixer",
+        "price": 29.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Appliances"
+    },
+    {
+        "item_code": "193",
+        "product_name": "Resistance Bands",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "194",
+        "product_name": "Travel Backpack",
+        "price": 69.99,
+        "segment": "Travel",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "195",
+        "product_name": "Wireless Mouse",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "196",
+        "product_name": "Camping Table",
+        "price": 39.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "197",
+        "product_name": "Running Shorts",
+        "price": 34.99,
+        "segment": "Apparel",
+        "category": "Athletic Wear"
+    },
+    {
+        "item_code": "198",
+        "product_name": "Tennis Balls",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Tennis"
+    },
+    {
+        "item_code": "199",
+        "product_name": "Cooking Apron",
+        "price": 14.99,
+        "segment": "Home & Garden",
+        "category": "Kitchen Accessories"
+    },
+    {
+        "item_code": "200",
+        "product_name": "Gaming Console",
+        "price": 399.99,
+        "segment": "Electronics",
+        "category": "Gaming"
+    },
+    {
+        "item_code": "201",
+        "product_name": "Water Bottle",
+        "price": 19.99,
+        "segment": "Sports & Fitness",
+        "category": "Hydration"
+    },
+    {
+        "item_code": "202",
+        "product_name": "Laptop Bag",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Bags & Luggage"
+    },
+    {
+        "item_code": "203",
+        "product_name": "Cooking Pot",
+        "price": 39.99,
+        "segment": "Home & Garden",
+        "category": "Cookware"
+    },
+    {
+        "item_code": "204",
+        "product_name": "Running Shoes",
+        "price": 99.99,
+        "segment": "Apparel",
+        "category": "Footwear"
+    },
+    {
+        "item_code": "205",
+        "product_name": "Smart Plug",
+        "price": 29.99,
+        "segment": "Electronics",
+        "category": "Home Automation"
+    },
+    {
+        "item_code": "206",
+        "product_name": "Yoga Mat",
+        "price": 24.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "207",
+        "product_name": "Desk Lamp",
+        "price": 39.99,
+        "segment": "Home & Garden",
+        "category": "Lighting"
+    },
+    {
+        "item_code": "208",
+        "product_name": "Dumbbell Set",
+        "price": 149.99,
+        "segment": "Sports & Fitness",
+        "category": "Strength Training"
+    },
+    {
+        "item_code": "209",
+        "product_name": "Travel Organizer",
+        "price": 19.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "210",
+        "product_name": "Camping Lantern",
+        "price": 24.99,
+        "segment": "Outdoor",
+        "category": "Camping Gear"
+    },
+    {
+        "item_code": "211",
+        "product_name": "Bluetooth Speaker",
+        "price": 69.99,
+        "segment": "Electronics",
+        "category": "Audio"
+    },
+    {
+        "item_code": "212",
+        "product_name": "Running Tights",
+        "price": 49.99,
+        "segment": "Apparel",
+        "category": "Athletic Wear"
+    },
+    {
+        "item_code": "213",
+        "product_name": "Gaming Mouse",
+        "price": 49.99,
+        "segment": "Electronics",
+        "category": "Computer Accessories"
+    },
+    {
+        "item_code": "214",
+        "product_name": "Tennis Racket",
+        "price": 89.99,
+        "segment": "Sports & Fitness",
+        "category": "Tennis"
+    },
+    {
+        "item_code": "215",
+        "product_name": "Travel Pillow",
+        "price": 19.99,
+        "segment": "Travel",
+        "category": "Travel Accessories"
+    },
+    {
+        "item_code": "216",
+        "product_name": "Yoga Strap",
+        "price": 9.99,
+        "segment": "Sports & Fitness",
+        "category": "Yoga & Pilates"
+    },
+    {
+        "item_code": "217",
+        "product_name": "Handheld Vacuum",
+        "price": 49.99,
+        "segment": "Home & Garden",
+        "category": "Cleaning Supplies"
+    },
+    {
+        "item_code": "218",
+        "product_name": "Gaming Headset",
+        "price": 79.99,
+        "segment": "Electronics",
+        "category": "Gaming"
+    },
+    {
+        "item_code": "219",
+        "product_name": "Waterproof Jacket",
+        "price": 99.99,
+        "segment": "Apparel",
+        "category": "Outerwear"
+    },
+    {
+        "item_code": "220",
+        "product_name": "Smart Watch",
+        "price": 199.99,
+        "segment": "Electronics",
+        "category": "Wearable Technology"
+    }
+]
+   
+
+
+   
+
