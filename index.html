@@ -39,5 +39,17 @@
             </tr>
         </table>
     </div>
+    <script>
+        fetch('productList.json')
+        .then(response => response.json())
+        .then(jsonData => {
+            var jsonDataDiv = document.getElementById('product-container');
+            var jsonDataString = JSON.stringify(jsonData, null, 2);
+            jsonDataDiv.innerHTML = '<pre>' + jsonDataString + '</pre>';
+        })
+        .catch(e => {
+            console.error('Error', e);
+        });
+    </script>
 </body>
 </html>
