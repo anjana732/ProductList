@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link type="text/css" href="style.css" rel="stylesheet">
+    <title>Product List</title>
 </head>
 <body>
     <h3>Search Product</h3>
@@ -11,31 +12,24 @@
     <button>Add Product</button>
     <input type="text" placeholder="Search..."/>
     
-  <select id="cars" name="cars">
-    <option value="">--Select Segment--</option>
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-    <option value="mercedes">Mercedes</option>
-    <option value="audi">Audi</option>
-  </select>
-  <select id="category" name="category">
-    <option value="">--Select Category</option>
-    <option value="">Value1</option>
-  </select>
+    <select id="cars" name="cars">
+        <option value="">--Select Segment--</option>
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="mercedes">Mercedes</option>
+        <option value="audi">Audi</option>
+    </select>
+    <select id="category" name="category">
+        <option value="">--Select Category</option>
+        <option value="">Value1</option>
+    </select>
     <div id="product-container">
-        <table>
+        <table id="product-table">
             <tr>
                 <th>Item Code</th>
                 <th>Product Name</th>
                 <th>Price</th>
                 <th>Quantity</th>
-            </tr>
-            <tr>
-                <td><input type="checkbox"></td>
-                <td>166122</td>
-                <td>Product1</td>
-                <td>157965</td>
-                <td><input type="text" placeholder="Qty"/></td>
             </tr>
         </table>
     </div>
@@ -43,9 +37,18 @@
         fetch('productList.json')
         .then(response => response.json())
         .then(jsonData => {
-            var jsonDataDiv = document.getElementById('product-container');
-            var jsonDataString = JSON.stringify(jsonData, null, 2);
-            jsonDataDiv.innerHTML = '<pre>' + jsonDataString + '</pre>';
+            var productTable = document.getElementById('product-table');
+            jsonData.forEach(product => {
+                var row = productTable.insertRow();
+                row.insertCell(0).textContent = product.item_code;
+                row.insertCell(1).textContent = product.product_name;
+                row.insertCell(2).textContent = product.price;
+                var quantityCell = row.insertCell(3);
+                var quantityInput = document.createElement('input');
+                quantityInput.setAttribute('type', 'text');
+                quantityInput.setAttribute('placeholder', 'Qty');
+                quantityCell.appendChild(quantityInput);
+            });
         })
         .catch(e => {
             console.error('Error', e);
